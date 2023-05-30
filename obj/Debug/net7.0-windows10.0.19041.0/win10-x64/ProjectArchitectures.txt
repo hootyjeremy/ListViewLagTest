@@ -1,0 +1,1 @@
+E:\Dev\Maui Projects\_Test Projects_\ListViewTest\ListViewTest.csproj;x64
